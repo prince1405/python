@@ -1,0 +1,18 @@
+from turtle import *
+color ("black")
+begin_fill()
+pensize(6)
+left(80)
+forward(300)
+right(140)
+forward(330)
+right(160)
+forward(360)
+right(140)
+forward(300)
+right(135)
+forward(340)
+left(50)
+circle(150,300)
+end_fill()
+
